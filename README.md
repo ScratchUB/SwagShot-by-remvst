@@ -15,3 +15,5 @@ The game features 5 different weapons:
 
 The goal is to score as many points as possible by eliminating robots on the station with style.
 Points are awarded for performing different feats, such as killing enemies, making direct rocket hits, hitting while jumping, killing several enemies in a row.
+
+This was made by remvst
